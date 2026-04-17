@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data (raw data shouldn't be in Git)
+data/raw/
+
+# Reports output
+reports/figures/
+
+# OS
+.DS_Store
